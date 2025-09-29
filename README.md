@@ -83,5 +83,5 @@ npm run dev
 ## 🔗 Links
 
 * 🌐 [Live Demo](https://quickai-client.vercel.app)
-* 🐙 [GitHub Repository](https://github.com/sumu9897/Quick-AI)
-* 📧 Contact: [mohammad.sumon9897@gmail.com](mohammad.sumon9897@gmail.com)
+* 🐙 [GitHub Repository](https://github.com/Aditya6455/EvoMind-evolving-intelligence)
+* 📧 Contact: [akcharm2017@gmail.com](akcharm2017@gmail.com)|[LinkedIn](https://www.linkedin.com/in/aditya-kumar-sah-656633263/)
